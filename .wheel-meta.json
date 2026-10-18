@@ -1,0 +1,22 @@
+{
+  "wheel_id": 396,
+  "structure": "umbrella",
+  "slug": "northernbeachesrenovation-105",
+  "project": "home-renovations-northern-beaches-checklist-9a8d7ef9a63bef3a547",
+  "parent_t1_ref": "northernbeachesrenovation-152",
+  "node_role": "feeder",
+  "money_target": "northernbeachesrenovation.com.au",
+  "primary_kw": "home renovations northern beaches checklist",
+  "intended_url": "https://sitesau.github.io/northernbeachesrenovation-105/",
+  "tier": "T2",
+  "writeback_nonce": "c405a28f4518b723",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/home-renovations-northern-beaches-suburb-guide-17449f5068524010/",
+      "anchor": "home renovations northern beaches suburb guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
